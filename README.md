@@ -1,6 +1,6 @@
 # DevOps & Cloud Engineering Mini-Projects
 
-Welcome to the collection of DevOps and Cloud Engineering mini-projects. This repository contains various implementations focused on automation, infrastructure orchestration, CI/CD pipelines, and container deployment.
+Welcome to the collection of DevOps and Cloud Engineering mini-projects. This repository contains various implementations focused on automation, CI/CD pipelines, and container deployment.
 
 ---
 
